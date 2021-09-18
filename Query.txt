@@ -1,0 +1,7 @@
+2.System Health
+	-Display available RAM
+	-Display Load avearge
+	-Display Hostname details
+	-Display All process count
+	-Display uptime
+	(Generate Alert on Crossing threshold value)
